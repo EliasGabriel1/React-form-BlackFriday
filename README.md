@@ -14,8 +14,7 @@ You can run the project on your machine by cloning the project, if you don't kno
 Download the dependencies with npm i and start the project with npm start.
 
 
-Informações das bibliotecas:
-Library information:
+Informações das bibliotecas / Library information:
  
 
 <a href="https://pt-br.reactjs.org/"> React </a>
