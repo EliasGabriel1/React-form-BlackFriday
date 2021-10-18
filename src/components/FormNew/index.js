@@ -27,10 +27,8 @@ const FormNew = () => {
     <Form onSubmit={handleSubmit(newUser)}>
       <Field.Text label="Nome" name="name" type="text" register={register} />
       {errors.name?.message}
-      {errors.name?.type}
       <Field.Text label="Email" name="email" type="email" register={register} />
       {errors.email?.message}
-      {errors.email?.type}
       <Button>Enviar</Button>
     </Form>
   );
