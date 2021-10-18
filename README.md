@@ -17,8 +17,8 @@ Download the dependencies with npm i and start the project with npm start.
 Informações das bibliotecas / Library information:
  
 
-<a href="https://pt-br.reactjs.org/"> React </a>
-<a href="https://react-hook-form.com/"> React Hook Form</a>
-<a href="https://www.npmjs.com/package/yup"> Yup </a>
-<a href="https://www.npmjs.com/package/@hookform/resolvers"> hookform/resolvers </a>
+<a href="https://pt-br.reactjs.org/"> React </a> <br>
+<a href="https://react-hook-form.com/"> React Hook Form</a><br>
+<a href="https://www.npmjs.com/package/yup"> Yup </a><br>
+<a href="https://www.npmjs.com/package/@hookform/resolvers"> hookform/resolvers </a><br>
 <a href="https://styled-components.com/docs"> styled-components</a>
